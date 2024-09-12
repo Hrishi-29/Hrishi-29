@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align="center">
   <img height="200" src="Black Trendy Gamer Youtube Banner.png"  />
