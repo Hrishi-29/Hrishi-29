@@ -1,4 +1,4 @@
-![logo](https://github.com/Hrishi-29/Hrishi-29/blob/main/Black%20Trendy%20Gamer%20Youtube%20Banner.png)
+![logo](https://github.com/Hrishi-29/Hrishi-29/blob/main/Hrishi%20RAj%20Verma.png)
 
 ###
 
