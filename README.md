@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="right">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
 
 ###
 
