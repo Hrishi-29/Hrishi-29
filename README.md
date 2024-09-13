@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Hrishi-29/Hrishi-29/blob/main/Hrishi%20RAj%20Verma.png)
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
