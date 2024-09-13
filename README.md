@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
+<h2 align="right">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
 
 ###
 
@@ -18,6 +18,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Hrishi-29/Hrishi-29/output/snake.svg" alt="Snake animation" />
 
@@ -35,6 +37,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vNnZyaWpyOTB1enZ6eW9nZjR4bWQ3cmE4OTV1aGw1cHZjOWcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/Z3B0wdvuunh9Xg9w9w/giphy.gif"  />
 
