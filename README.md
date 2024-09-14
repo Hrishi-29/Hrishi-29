@@ -4,10 +4,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hrishi-29/Hrishi-29/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="28" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="28" alt="gmail logo"  />
@@ -37,6 +33,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi-29&hide_border=true&area=true&theme=nord&radius=15" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishi-29&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Hrishi-29/Hrishi-29/output/snake.svg" alt="Snake animation" />
 
 ###
 
