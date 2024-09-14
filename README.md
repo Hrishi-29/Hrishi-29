@@ -1,25 +1,8 @@
 ![logo](https://github.com/Hrishi-29/Hrishi-29/blob/main/Hrishi%20RAj%20Verma.png)
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+<h2 align="right">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
 
 ###
-
-<h2 align="left">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrishi-29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Hrishi-29&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi-29&hide_border=true&area=true&theme=nord&radius=15" height="150" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishi-29&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Hrishi-29/Hrishi-29/output/snake.svg" alt="Snake animation" />
 
@@ -40,7 +23,24 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vNnZyaWpyOTB1enZ6eW9nZjR4bWQ3cmE4OTV1aGw1cHZjOWcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/Z3B0wdvuunh9Xg9w9w/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vNnZyaWpyOTB1enZ6eW9nZjR4bWQ3cmE4OTV1aGw1cHZjOWcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/Z3B0wdvuunh9Xg9w9w/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrishi-29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Hrishi-29&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi-29&hide_border=true&area=true&theme=nord&radius=15" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishi-29&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
 
