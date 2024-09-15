@@ -4,6 +4,14 @@
 
 ###
 
+<div align="right">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vNnZyaWpyOTB1enZ6eW9nZjR4bWQ3cmE4OTV1aGw1cHZjOWcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/Z3B0wdvuunh9Xg9w9w/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="28" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="28" alt="gmail logo"  />
@@ -13,14 +21,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="28" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="54" height="28" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="54" height="28" alt="behance logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vNnZyaWpyOTB1enZ6eW9nZjR4bWQ3cmE4OTV1aGw1cHZjOWcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/Z3B0wdvuunh9Xg9w9w/giphy.gif"  />
 </div>
 
 ###
