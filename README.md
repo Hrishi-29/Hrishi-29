@@ -67,8 +67,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hrishi-29/Hrishi-29/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/Hrishi-29/Hrishi-29/blob/main/github-contribution-grid-snake-dark.svg)
 ###
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
