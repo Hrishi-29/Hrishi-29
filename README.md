@@ -1,6 +1,6 @@
 ![logo](https://github.com/Hrishi-29/Hrishi-29/blob/main/Hrishi%20RAj%20Verma.png)
 
-<h2 align="left">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
+<h2 align="center">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
 
 ###
 
