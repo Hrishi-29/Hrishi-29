@@ -1,13 +1,14 @@
 ![logo](https://github.com/Hrishi-29/Hrishi-29/blob/main/Hrishi%20RAj%20Verma.png)
 
-<h2 align="center">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2>
+# 💫About Me :
+<h2 align="center">Hi 👋! My name is Hrishi Raj Verma and I'm a 👨‍🎓 of UG in Bsc IT, 🚀 from Patna(Bihar)🇮🇳</h2> <b>I am passionate about technology, innovation, and always looking for opportunities to learn, collaborate and make a meaningful impact in the field. I am open to networking and connecting with professionals in the industry to expand my knowledge and skills.
 
 ###
 
   <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vNnZyaWpyOTB1enZ6eW9nZjR4bWQ3cmE4OTV1aGw1cHZjOWcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/Z3B0wdvuunh9Xg9w9w/giphy.gif"  />
 
 ###
-
+# 💻Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -66,14 +67,22 @@
 </div>
 
 ###
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Hrishi-29&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hrishi-29&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
 
 ![snake gif](https://github.com/Hrishi-29/Hrishi-29/blob/main/github-contribution-grid-snake-dark.svg)
+
 ###
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
-
+## 🌐Socials
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="28" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="28" alt="gmail logo"  />
@@ -86,3 +95,5 @@
 </div>
 
 ###
+  ## 💰You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/HrishiRaj29) 
