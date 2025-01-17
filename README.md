@@ -70,16 +70,24 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Hrishi-29&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Hrishi-29&icon=10&color=5)](https://visitcount.itsvg.in)
+###
+
+
+
+<div align= "center">
+  
+  ![snake gif](https://github.com/Hrishi-29/Hrishi-29/blob/output/github-snake-dark.svg)
+</div>
+
+<div align = "center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Hrishi-29&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
 ###
 
-![snake gif](https://github.com/Hrishi-29/Hrishi-29/blob/output/github-snake-dark.svg)
-
-###
-
-<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+<img align="right" height="200" 
+src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
 ## 🌐Socials
