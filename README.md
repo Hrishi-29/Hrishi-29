@@ -71,11 +71,11 @@
 ![](https://github-trophies.vercel.app/?username=Hrishi-29&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hrishi-29&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hrishi-29&icon=10&color=5)](https://visitcount.itsvg.in)
 
 ###
 
-![snake gif](https://github.com/Hrishi-29/Hrishi-29/blob/main/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Hrishi-29/Hrishi-29/blob/output/github-snake-dark.svg)
 
 ###
 
