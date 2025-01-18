@@ -80,7 +80,7 @@
 </div>
 
 <div align = "center">
-  <img src = "https://komarev.com/ghpvc/?username=Hrishi-29&label=Profile%20views&color=0e75b6&style=flat" alt="Hrishi-29" />
+  <img src = "https://komarev.com/ghpvc/?username=Hrishi-29&label=Profile%20views&color=orange&style=flat&abbreviated=true" alt="Hrishi-29" />
 </div>
 
 ###
