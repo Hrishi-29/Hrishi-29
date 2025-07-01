@@ -93,11 +93,16 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
 <div align="left">
   <a href="mailto:vhraj1629@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="28" alt="gmail logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="28" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="28" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="54" height="28" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="28" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="54" height="28" alt="hackerrank logo"  />
+  <a href="https://www.linkedin.com/in/hrishi-raj-verma" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="28" alt="linkedin logo"  /></a>
+  <a href="https://www.instagram.com/mr_vermaji07" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="28" alt="instagram logo"  /></a>
+  <a href="https://www.discord.com/hraj29_" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="54" height="28" alt="discord logo"  /></a>
+  <a href="https://www.facebook.com/Hrishi Raj Verma" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="28" alt="facebook logo"  /></a>
+  <a href="https://www.hackerrank.com/profile/vhraj1629" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="54" height="28" alt="hackerrank logo"  /></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="54" height="28" alt="behance logo"  />
 </div>
 
