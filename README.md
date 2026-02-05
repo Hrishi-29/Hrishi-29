@@ -86,8 +86,10 @@
 ###
 ## 💡Let's Build Something Awesome!
 
-<img align="center" height="200" 
+<p align="center">
+<img height="200" 
 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+</p>
 
 ###
 ## 🌐Socials
