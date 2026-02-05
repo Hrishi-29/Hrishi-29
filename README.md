@@ -84,8 +84,9 @@
 </div>
 
 ###
+## 💡Let's Build Something Awesome!
 
-<img align="right" height="200" 
+<img align="center" height="200" 
 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
